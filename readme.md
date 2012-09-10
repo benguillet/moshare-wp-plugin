@@ -1,3 +1,5 @@
+This is a copy of the moShare plugin for WordPress, available here: http://wordpress.org/extend/plugins/moshare/
+
 # moShare #
 **Plugin Name:** moShare  
 **Contributors:** jperichon, bguillet, trizzi  
